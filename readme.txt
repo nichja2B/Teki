@@ -1,1 +1,1 @@
-Ceci est un fichier texte
+Cette petite application permet de générer des phrases aléatoire
