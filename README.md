@@ -1,2 +1,2 @@
 # Teki
-Application qui donne des phrase de façon aléatoire
+Application qui donne des phrases de façon aléatoire
